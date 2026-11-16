@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" font-family="Arial, sans-serif">
+  <rect width="520" height="640" fill="#ffffff"/>
+  <text x="260" y="34" text-anchor="middle" font-size="19" font-weight="bold" fill="#2E2520">CostCraft: Layered Architecture</text>
+
+  <!-- stacked layers -->
+  <g>
+    <rect x="150" y="60" width="220" height="56" rx="8" fill="#F5EFE6" stroke="#9C8E84" stroke-width="1.5"/>
+    <text x="260" y="93" text-anchor="middle" font-size="15" font-weight="bold" fill="#2E2520">Browser (Client)</text>
+
+    <rect x="120" y="156" width="280" height="62" rx="8" fill="#F5EFE6" stroke="#C8965A" stroke-width="1.6"/>
+    <text x="260" y="183" text-anchor="middle" font-size="15" font-weight="bold" fill="#2E2520">Presentation Layer</text>
+    <text x="260" y="202" text-anchor="middle" font-size="12" fill="#6B5D52">JSP · JSTL · EL · Bootstrap</text>
+
+    <rect x="120" y="258" width="280" height="62" rx="8" fill="#F5EFE6" stroke="#C8965A" stroke-width="1.6"/>
+    <text x="260" y="285" text-anchor="middle" font-size="15" font-weight="bold" fill="#2E2520">Controller Layer</text>
+    <text x="260" y="304" text-anchor="middle" font-size="12" fill="#6B5D52">Jakarta Servlet</text>
+
+    <rect x="120" y="360" width="280" height="62" rx="8" fill="#F5EFE6" stroke="#C8965A" stroke-width="1.6"/>
+    <text x="260" y="387" text-anchor="middle" font-size="15" font-weight="bold" fill="#2E2520">Service Layer</text>
+    <text x="260" y="406" text-anchor="middle" font-size="12" fill="#6B5D52">Business logic · transactions</text>
+
+    <rect x="120" y="462" width="280" height="62" rx="8" fill="#F5EFE6" stroke="#C8965A" stroke-width="1.6"/>
+    <text x="260" y="489" text-anchor="middle" font-size="15" font-weight="bold" fill="#2E2520">Data Access Layer (DAO)</text>
+    <text x="260" y="508" text-anchor="middle" font-size="12" fill="#6B5D52">JDBC · PreparedStatement</text>
+
+    <rect x="150" y="564" width="220" height="56" rx="8" fill="#DCCFBC" stroke="#A87A45" stroke-width="1.6"/>
+    <text x="260" y="597" text-anchor="middle" font-size="15" font-weight="bold" fill="#2E2520">MySQL Database</text>
+  </g>
+
+  <!-- down arrows -->
+  <g stroke="#A87A45" stroke-width="2" fill="#A87A45">
+    <line x1="260" y1="116" x2="260" y2="156" marker-end="url(#a)"/>
+    <line x1="260" y1="218" x2="260" y2="258" marker-end="url(#a)"/>
+    <line x1="260" y1="320" x2="260" y2="360" marker-end="url(#a)"/>
+    <line x1="260" y1="422" x2="260" y2="462" marker-end="url(#a)"/>
+    <line x1="260" y1="524" x2="260" y2="564" marker-end="url(#a)"/>
+  </g>
+
+  <defs>
+    <marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#A87A45"/>
+    </marker>
+  </defs>
+</svg>

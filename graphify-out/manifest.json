@@ -1,0 +1,467 @@
+{
+  "H:\\NXU\\JEE\\CostCraft\\.github\\modernize\\java-upgrade\\hooks\\scripts\\recordToolUse.ps1": {
+    "mtime": 1781571697.9540818,
+    "ast_hash": "9ecf230451dfd20ff4e0a2a01e80a4e6",
+    "semantic_hash": "9ecf230451dfd20ff4e0a2a01e80a4e6"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\.github\\modernize\\java-upgrade\\hooks\\scripts\\recordToolUse.sh": {
+    "mtime": 1781571697.957081,
+    "ast_hash": "e25ae501603ce6bf738198f5ce32ba83",
+    "semantic_hash": "e25ae501603ce6bf738198f5ce32ba83"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\mvnw": {
+    "mtime": 1780747110.5989964,
+    "ast_hash": "2deada3b45c9311e2b687cfdf6c6063f",
+    "semantic_hash": "2deada3b45c9311e2b687cfdf6c6063f"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\BatchServlet.java": {
+    "mtime": 1780826479.0493262,
+    "ast_hash": "82b600b4ff7020a027d4dab1e2d744a4",
+    "semantic_hash": "82b600b4ff7020a027d4dab1e2d744a4"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\BomServlet.java": {
+    "mtime": 1780748130.69335,
+    "ast_hash": "7ddf917424885764e0428b7405e2b4d6",
+    "semantic_hash": "7ddf917424885764e0428b7405e2b4d6"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\DashboardServlet.java": {
+    "mtime": 1780748076.062395,
+    "ast_hash": "1cb33dba2712440617a04d40f324ecfd",
+    "semantic_hash": "1cb33dba2712440617a04d40f324ecfd"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\InventoryHistoryServlet.java": {
+    "mtime": 1780826502.8194933,
+    "ast_hash": "7c64a0f3b933eb23ad2667a63013bd3c",
+    "semantic_hash": "7c64a0f3b933eb23ad2667a63013bd3c"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\InventoryServlet.java": {
+    "mtime": 1780769845.9082875,
+    "ast_hash": "adc886886be98f916f498cdacd01f0ba",
+    "semantic_hash": "adc886886be98f916f498cdacd01f0ba"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\LoginServlet.java": {
+    "mtime": 1780748069.8522704,
+    "ast_hash": "86271a0621784d20e79fb518e1538b40",
+    "semantic_hash": "86271a0621784d20e79fb518e1538b40"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\LogoutServlet.java": {
+    "mtime": 1780748072.576693,
+    "ast_hash": "54a54099445dcd172da765ea2012a3f9",
+    "semantic_hash": "54a54099445dcd172da765ea2012a3f9"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\LowStockServlet.java": {
+    "mtime": 1780748115.0562956,
+    "ast_hash": "61407676bbfed2f54a5983582f5828ca",
+    "semantic_hash": "61407676bbfed2f54a5983582f5828ca"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\MaterialServlet.java": {
+    "mtime": 1780818583.6533842,
+    "ast_hash": "118f371c8c61795e651e831b068ec9c4",
+    "semantic_hash": "118f371c8c61795e651e831b068ec9c4"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\OverheadServlet.java": {
+    "mtime": 1780817311.452919,
+    "ast_hash": "3574845b780d2359ac5ce928ba6b6244",
+    "semantic_hash": "3574845b780d2359ac5ce928ba6b6244"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\PreferencesServlet.java": {
+    "mtime": 1780774544.9904234,
+    "ast_hash": "3c59d86f0bae860477f89b342534ef7d",
+    "semantic_hash": "3c59d86f0bae860477f89b342534ef7d"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\PriceSensitivityServlet.java": {
+    "mtime": 1780748148.2602146,
+    "ast_hash": "ed7bb83807eb1f5934f38a32cdada3d1",
+    "semantic_hash": "ed7bb83807eb1f5934f38a32cdada3d1"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\ProductServlet.java": {
+    "mtime": 1780814486.2962153,
+    "ast_hash": "be440f86c36d774f1ffc3ed322ba5cdc",
+    "semantic_hash": "be440f86c36d774f1ffc3ed322ba5cdc"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\ReplenishServlet.java": {
+    "mtime": 1780826529.183491,
+    "ast_hash": "5e4f67039523296b1c3d334afac0c6ec",
+    "semantic_hash": "5e4f67039523296b1c3d334afac0c6ec"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\UnitCostDetailServlet.java": {
+    "mtime": 1780826516.584664,
+    "ast_hash": "3976f1536dbf8e7dc1c5054ac536cf74",
+    "semantic_hash": "3976f1536dbf8e7dc1c5054ac536cf74"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\controller\\UserManageServlet.java": {
+    "mtime": 1780748175.8974657,
+    "ast_hash": "6fd1c03014d2ee5fe6b59a8245ea0c49",
+    "semantic_hash": "6fd1c03014d2ee5fe6b59a8245ea0c49"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\AlertDao.java": {
+    "mtime": 1780747909.8973224,
+    "ast_hash": "eb332cc5ba9004b7945fa3c0b36fe5eb",
+    "semantic_hash": "eb332cc5ba9004b7945fa3c0b36fe5eb"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\BatchItemDao.java": {
+    "mtime": 1780747927.5613105,
+    "ast_hash": "77ab1e7316be55b12e0b010caf144a6b",
+    "semantic_hash": "77ab1e7316be55b12e0b010caf144a6b"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\BomItemDao.java": {
+    "mtime": 1780747877.5151732,
+    "ast_hash": "2c25079bf563b23be776c0294ec9b37a",
+    "semantic_hash": "2c25079bf563b23be776c0294ec9b37a"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\CurrencyRateDao.java": {
+    "mtime": 1780747831.6748047,
+    "ast_hash": "8878c37d983d1a121bc413d1f10f3dfc",
+    "semantic_hash": "8878c37d983d1a121bc413d1f10f3dfc"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\InventoryLogDao.java": {
+    "mtime": 1780826350.5748928,
+    "ast_hash": "5940db0d82148e17f20c27b09c2c8de7",
+    "semantic_hash": "5940db0d82148e17f20c27b09c2c8de7"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\MaterialCategoryDao.java": {
+    "mtime": 1780747836.588064,
+    "ast_hash": "431e86cd709e06733e9b0f75d9b8000f",
+    "semantic_hash": "431e86cd709e06733e9b0f75d9b8000f"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\MaterialDao.java": {
+    "mtime": 1780814468.62318,
+    "ast_hash": "84033f1750a51684e17e49ce26d703c7",
+    "semantic_hash": "84033f1750a51684e17e49ce26d703c7"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\OverheadConfigDao.java": {
+    "mtime": 1780817292.2690063,
+    "ast_hash": "24d0e37ea8a4fa96852cda491853c028",
+    "semantic_hash": "24d0e37ea8a4fa96852cda491853c028"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\ProductDao.java": {
+    "mtime": 1780814466.8607337,
+    "ast_hash": "98a8b59841937869d1a99bfd88b9451a",
+    "semantic_hash": "98a8b59841937869d1a99bfd88b9451a"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\ProductionBatchDao.java": {
+    "mtime": 1780826312.977157,
+    "ast_hash": "02a12d6711998abcbc1634ced43a0242",
+    "semantic_hash": "02a12d6711998abcbc1634ced43a0242"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dao\\UserDao.java": {
+    "mtime": 1780774333.911677,
+    "ast_hash": "e039590757f0fbf43c307a6fdc72b731",
+    "semantic_hash": "e039590757f0fbf43c307a6fdc72b731"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dto\\BatchContext.java": {
+    "mtime": 1780747657.234214,
+    "ast_hash": "033a20e224bbf9eb3e88fe5ffd83f3da",
+    "semantic_hash": "033a20e224bbf9eb3e88fe5ffd83f3da"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dto\\CostLine.java": {
+    "mtime": 1780747652.2805188,
+    "ast_hash": "d504530b39f6d0c7f4a61c6ba3621c38",
+    "semantic_hash": "d504530b39f6d0c7f4a61c6ba3621c38"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\dto\\UnitCostBreakdown.java": {
+    "mtime": 1780767402.6400182,
+    "ast_hash": "fe2f74d9a53b2949399dd2923274eee6",
+    "semantic_hash": "fe2f74d9a53b2949399dd2923274eee6"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\Alert.java": {
+    "mtime": 1780747643.668376,
+    "ast_hash": "6ee78cd349f74970328183285612b9ed",
+    "semantic_hash": "6ee78cd349f74970328183285612b9ed"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\BatchItem.java": {
+    "mtime": 1780747634.763883,
+    "ast_hash": "7cbba702fcbc3676f20b407382795a73",
+    "semantic_hash": "7cbba702fcbc3676f20b407382795a73"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\BomItem.java": {
+    "mtime": 1780747616.9677682,
+    "ast_hash": "4bed4de7f508f369343bbc1752a689d9",
+    "semantic_hash": "4bed4de7f508f369343bbc1752a689d9"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\CurrencyRate.java": {
+    "mtime": 1780747595.6821654,
+    "ast_hash": "7268befacd89715b10ddbef23046a0b0",
+    "semantic_hash": "7268befacd89715b10ddbef23046a0b0"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\InventoryLog.java": {
+    "mtime": 1780768148.248851,
+    "ast_hash": "f9e3f9eb6f4acafe37edda5354c43b5f",
+    "semantic_hash": "f9e3f9eb6f4acafe37edda5354c43b5f"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\Material.java": {
+    "mtime": 1780747604.1093936,
+    "ast_hash": "3101f8219887dd72b8623b42455951dc",
+    "semantic_hash": "3101f8219887dd72b8623b42455951dc"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\MaterialCategory.java": {
+    "mtime": 1780747597.8932858,
+    "ast_hash": "07b9df8bf7a33af08069645ed3530582",
+    "semantic_hash": "07b9df8bf7a33af08069645ed3530582"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\OverheadConfig.java": {
+    "mtime": 1780747624.0841067,
+    "ast_hash": "f5ad7bf588eb596624494922a9d35e8b",
+    "semantic_hash": "f5ad7bf588eb596624494922a9d35e8b"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\Product.java": {
+    "mtime": 1780771171.2601697,
+    "ast_hash": "3e07ebb00cbba3923759b116adecf8ee",
+    "semantic_hash": "3e07ebb00cbba3923759b116adecf8ee"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\ProductionBatch.java": {
+    "mtime": 1780768149.339585,
+    "ast_hash": "cb13ea1b0054ef10b9ca42f7f6065ef7",
+    "semantic_hash": "cb13ea1b0054ef10b9ca42f7f6065ef7"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\entity\\User.java": {
+    "mtime": 1780774268.747302,
+    "ast_hash": "693aeb5c6fc4a87e30ad6f9155c05d85",
+    "semantic_hash": "693aeb5c6fc4a87e30ad6f9155c05d85"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\exception\\ServiceException.java": {
+    "mtime": 1780747583.0109913,
+    "ast_hash": "f0cf85b732eb13d1a98d9aafaaf6ea55",
+    "semantic_hash": "f0cf85b732eb13d1a98d9aafaaf6ea55"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\exception\\ValidationException.java": {
+    "mtime": 1780747584.156905,
+    "ast_hash": "239a9e7cc3b69eee6c504e3919ad735d",
+    "semantic_hash": "239a9e7cc3b69eee6c504e3919ad735d"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\filter\\CharacterEncodingFilter.java": {
+    "mtime": 1780748182.4892292,
+    "ast_hash": "0b9992be3ac1dbf086b3cbfc67176941",
+    "semantic_hash": "0b9992be3ac1dbf086b3cbfc67176941"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\filter\\LocaleFilter.java": {
+    "mtime": 1780774443.6372216,
+    "ast_hash": "859fa3481de6475a836f0a85399d270e",
+    "semantic_hash": "859fa3481de6475a836f0a85399d270e"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\filter\\LoginFilter.java": {
+    "mtime": 1780748185.9791193,
+    "ast_hash": "b9ae9b30ed3a2ef3f21ad84d4c8a4685",
+    "semantic_hash": "b9ae9b30ed3a2ef3f21ad84d4c8a4685"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\filter\\RoleFilter.java": {
+    "mtime": 1780748199.7914581,
+    "ast_hash": "0e9a992b04e9bb5f4c728b766eb7311c",
+    "semantic_hash": "0e9a992b04e9bb5f4c728b766eb7311c"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\command\\AdjustmentCommand.java": {
+    "mtime": 1780747748.724265,
+    "ast_hash": "8a6e54e2017851afa317296d6bd69e3f",
+    "semantic_hash": "8a6e54e2017851afa317296d6bd69e3f"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\command\\InitialStockCommand.java": {
+    "mtime": 1780747756.4155562,
+    "ast_hash": "71cc59e7173fde97942896ad2e18818b",
+    "semantic_hash": "71cc59e7173fde97942896ad2e18818b"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\command\\PurchaseCommand.java": {
+    "mtime": 1780747744.1873548,
+    "ast_hash": "ac18c4e1cbf88709be4a85dc7dd44f3d",
+    "semantic_hash": "ac18c4e1cbf88709be4a85dc7dd44f3d"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\command\\StockMovementCommand.java": {
+    "mtime": 1780747739.8180096,
+    "ast_hash": "57305b7bf73f42cd69f087cefc3f4211",
+    "semantic_hash": "57305b7bf73f42cd69f087cefc3f4211"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\command\\WasteCommand.java": {
+    "mtime": 1780747752.6686132,
+    "ast_hash": "8cea74d9f3a288590c69bd934831da95",
+    "semantic_hash": "8cea74d9f3a288590c69bd934831da95"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\decorator\\AbstractCostDecorator.java": {
+    "mtime": 1780747772.8559384,
+    "ast_hash": "4037f18d6c23f116b12d2ac96c1f6130",
+    "semantic_hash": "4037f18d6c23f116b12d2ac96c1f6130"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\decorator\\DirectMaterialsCost.java": {
+    "mtime": 1780747810.4897015,
+    "ast_hash": "790f6bf47bda3ede9b3fbb936c61be00",
+    "semantic_hash": "790f6bf47bda3ede9b3fbb936c61be00"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\decorator\\DirectOtherCostDecorator.java": {
+    "mtime": 1780747798.7776902,
+    "ast_hash": "e25636c4b3bd00eec2ce97c78beea935",
+    "semantic_hash": "e25636c4b3bd00eec2ce97c78beea935"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\decorator\\PercentageOverheadDecorator.java": {
+    "mtime": 1780747785.1860611,
+    "ast_hash": "8214f64bee8ad17c25a59a1fa3c8eb71",
+    "semantic_hash": "8214f64bee8ad17c25a59a1fa3c8eb71"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\decorator\\UnitCostCalculation.java": {
+    "mtime": 1780747764.7789595,
+    "ast_hash": "eee170a9d1078672e16dc679ab26a6ac",
+    "semantic_hash": "eee170a9d1078672e16dc679ab26a6ac"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\decorator\\UnitCostFinalizer.java": {
+    "mtime": 1780747800.6114068,
+    "ast_hash": "abd5006494fd636a618708293559e85e",
+    "semantic_hash": "abd5006494fd636a618708293559e85e"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\factory\\CurrencyStrategyFactory.java": {
+    "mtime": 1780747724.7258244,
+    "ast_hash": "c5ebf76d6b92c1d7de6b75bee7ac2040",
+    "semantic_hash": "c5ebf76d6b92c1d7de6b75bee7ac2040"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\factory\\OverheadStrategyFactory.java": {
+    "mtime": 1780747728.6952844,
+    "ast_hash": "2cb57c2da1dd312e1fca248ca5e98300",
+    "semantic_hash": "2cb57c2da1dd312e1fca248ca5e98300"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\observer\\MaterialPriceSubject.java": {
+    "mtime": 1780747737.9399724,
+    "ast_hash": "11f24459dfde0c2a9f6bfb7410657b0b",
+    "semantic_hash": "11f24459dfde0c2a9f6bfb7410657b0b"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\observer\\PriceObserver.java": {
+    "mtime": 1780747730.0328145,
+    "ast_hash": "f568e47520ee926616468d1eae29c08c",
+    "semantic_hash": "f568e47520ee926616468d1eae29c08c"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\observer\\ProductCostObserver.java": {
+    "mtime": 1780747735.685623,
+    "ast_hash": "6840a832871ede5ba74382c60bf5d819",
+    "semantic_hash": "6840a832871ede5ba74382c60bf5d819"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\ChineseYuanStrategy.java": {
+    "mtime": 1780747694.909794,
+    "ast_hash": "ba6508dbb1e21142aa19142070548250",
+    "semantic_hash": "ba6508dbb1e21142aa19142070548250"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\CurrencyFormatStrategy.java": {
+    "mtime": 1780747683.7601786,
+    "ast_hash": "e9586020aa7202a156c173aa0fa13611",
+    "semantic_hash": "e9586020aa7202a156c173aa0fa13611"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\DailyAllocatedStrategy.java": {
+    "mtime": 1780747707.8072479,
+    "ast_hash": "9bb6b0d444342a0cad2e428bb8767a42",
+    "semantic_hash": "9bb6b0d444342a0cad2e428bb8767a42"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\EuroStrategy.java": {
+    "mtime": 1780747697.6019235,
+    "ast_hash": "3672f48014abbb8e8d12541f19e32932",
+    "semantic_hash": "3672f48014abbb8e8d12541f19e32932"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\IndonesianRupiahStrategy.java": {
+    "mtime": 1780747717.8407705,
+    "ast_hash": "ed262395f67e5c54f04f601876ca71d9",
+    "semantic_hash": "ed262395f67e5c54f04f601876ca71d9"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\OverheadAllocationStrategy.java": {
+    "mtime": 1780747685.5054314,
+    "ast_hash": "f657cb7083ebe50c7299ecd957cc05c3",
+    "semantic_hash": "f657cb7083ebe50c7299ecd957cc05c3"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\PerBatchFixedStrategy.java": {
+    "mtime": 1780747700.5138898,
+    "ast_hash": "602a481890e4c09b3a69b1582b5e342d",
+    "semantic_hash": "602a481890e4c09b3a69b1582b5e342d"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\PerUnitFixedStrategy.java": {
+    "mtime": 1780747703.4966586,
+    "ast_hash": "4c264ccba1cce71c6571dc1fe6a1efcc",
+    "semantic_hash": "4c264ccba1cce71c6571dc1fe6a1efcc"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\PercentageOfDirectStrategy.java": {
+    "mtime": 1780747711.1439867,
+    "ast_hash": "4c0bd93222b16a8c3a813b4f8f314612",
+    "semantic_hash": "4c0bd93222b16a8c3a813b4f8f314612"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\pattern\\strategy\\USDollarStrategy.java": {
+    "mtime": 1780747691.8228705,
+    "ast_hash": "e4f3320dda1df4cfe6931d40939525fa",
+    "semantic_hash": "e4f3320dda1df4cfe6931d40939525fa"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\AlertService.java": {
+    "mtime": 1780748014.5882053,
+    "ast_hash": "aa057d9e670e925196ade45656a6ad4f",
+    "semantic_hash": "aa057d9e670e925196ade45656a6ad4f"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\BatchService.java": {
+    "mtime": 1780826369.3856401,
+    "ast_hash": "4452a9177445bf9a5c8f302d1f7a9adf",
+    "semantic_hash": "4452a9177445bf9a5c8f302d1f7a9adf"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\CurrencyService.java": {
+    "mtime": 1780748091.1581025,
+    "ast_hash": "d8ee632347b12f75451794f44c7c0f1a",
+    "semantic_hash": "d8ee632347b12f75451794f44c7c0f1a"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\InventoryService.java": {
+    "mtime": 1780826438.28672,
+    "ast_hash": "08e6aed6a1eaf069660c768502646b6b",
+    "semantic_hash": "08e6aed6a1eaf069660c768502646b6b"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\MaterialService.java": {
+    "mtime": 1780818574.6659198,
+    "ast_hash": "4537a400c77e3baaac84b8ff5e413835",
+    "semantic_hash": "4537a400c77e3baaac84b8ff5e413835"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\OverheadService.java": {
+    "mtime": 1780817293.7379107,
+    "ast_hash": "66950ec36f7b491a64f593e7737ce2bb",
+    "semantic_hash": "66950ec36f7b491a64f593e7737ce2bb"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\ProductService.java": {
+    "mtime": 1780814475.1640415,
+    "ast_hash": "5867ac4d775cddf503a47fef57a6ceff",
+    "semantic_hash": "5867ac4d775cddf503a47fef57a6ceff"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\UnitCostService.java": {
+    "mtime": 1780747951.9897158,
+    "ast_hash": "b823be652e28a15bcc516d080df6cb17",
+    "semantic_hash": "b823be652e28a15bcc516d080df6cb17"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\service\\UserService.java": {
+    "mtime": 1780774342.2877874,
+    "ast_hash": "9af1183baa0128e3f211e5a5a3eae7c6",
+    "semantic_hash": "9af1183baa0128e3f211e5a5a3eae7c6"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\util\\AppContextListener.java": {
+    "mtime": 1780763429.021056,
+    "ast_hash": "66c91391a1920057f51f48d3b043349b",
+    "semantic_hash": "66c91391a1920057f51f48d3b043349b"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\util\\DBUtil.java": {
+    "mtime": 1780767083.2047756,
+    "ast_hash": "10bdca99ce9a276ea467825dc744a5d2",
+    "semantic_hash": "10bdca99ce9a276ea467825dc744a5d2"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\util\\MoneyFormatter.java": {
+    "mtime": 1780747676.7460775,
+    "ast_hash": "f52e548a12e34b04cc426d4d2085864d",
+    "semantic_hash": "f52e548a12e34b04cc426d4d2085864d"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\java\\com\\costcraft\\util\\PasswordHasher.java": {
+    "mtime": 1780747673.3163433,
+    "ast_hash": "b746bb1ce99bf488b758108f40e19d37",
+    "semantic_hash": "b746bb1ce99bf488b758108f40e19d37"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\resources\\restore.sql": {
+    "mtime": 1780816473.0113943,
+    "ast_hash": "215e379bd627923a638c741593af866d",
+    "semantic_hash": "215e379bd627923a638c741593af866d"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\resources\\schema.sql": {
+    "mtime": 1780763315.4807189,
+    "ast_hash": "73b0d14bc5915ff10b5f7278c6c31a04",
+    "semantic_hash": "73b0d14bc5915ff10b5f7278c6c31a04"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\src\\main\\resources\\seed.sql": {
+    "mtime": 1780763479.8642242,
+    "ast_hash": "8e80843d5ad11de61bef4ce29f95ba69",
+    "semantic_hash": "8e80843d5ad11de61bef4ce29f95ba69"
+  },
+  "H:\\NXU\\JEE\\CostCraft\\CLAUDE.md": {
+    "mtime": 1780747338.1752224,
+    "ast_hash": "720e3c4b7d5c9991d7068ba044b69eee",
+    "semantic_hash": "720e3c4b7d5c9991d7068ba044b69eee"
+  }
+}

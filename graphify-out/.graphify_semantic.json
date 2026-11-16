@@ -1,0 +1,2909 @@
+{
+  "nodes": [
+    {
+      "id": "scripts_recordtooluse_ps1",
+      "label": "recordToolUse.ps1",
+      "file_type": "code",
+      "source_file": ".github/modernize/java-upgrade/hooks/scripts/recordToolUse.ps1",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scripts_recordtooluse_sh",
+      "label": "recordToolUse.sh",
+      "file_type": "code",
+      "source_file": ".github/modernize/java-upgrade/hooks/scripts/recordToolUse.sh",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "root_mvnw",
+      "label": "mvnw",
+      "file_type": "code",
+      "source_file": "mvnw",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_batchservlet_batchservlet",
+      "label": "BatchServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/BatchServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_bomservlet_bomservlet",
+      "label": "BomServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/BomServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_dashboardservlet_dashboardservlet",
+      "label": "DashboardServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/DashboardServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_inventoryhistoryservlet_inventoryhistoryservlet",
+      "label": "InventoryHistoryServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/InventoryHistoryServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_inventoryservlet_inventoryservlet",
+      "label": "InventoryServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/InventoryServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_loginservlet_loginservlet",
+      "label": "LoginServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/LoginServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_logoutservlet_logoutservlet",
+      "label": "LogoutServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/LogoutServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_lowstockservlet_lowstockservlet",
+      "label": "LowStockServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/LowStockServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_materialservlet_materialservlet",
+      "label": "MaterialServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/MaterialServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_overheadservlet_overheadservlet",
+      "label": "OverheadServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/OverheadServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_preferencesservlet_preferencesservlet",
+      "label": "PreferencesServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/PreferencesServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_pricesensitivityservlet_pricesensitivityservlet",
+      "label": "PriceSensitivityServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/PriceSensitivityServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_productservlet_productservlet",
+      "label": "ProductServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/ProductServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_replenishservlet_replenishservlet",
+      "label": "ReplenishServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_replenishservlet_replenishline",
+      "label": "ReplenishLine",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_unitcostdetailservlet_unitcostdetailservlet",
+      "label": "UnitCostDetailServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/UnitCostDetailServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "controller_usermanageservlet_usermanageservlet",
+      "label": "UserManageServlet",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/controller/UserManageServlet.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_batchservice_batchservice",
+      "label": "BatchService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_productservice_productservice",
+      "label": "ProductService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/ProductService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_materialservice_materialservice",
+      "label": "MaterialService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/MaterialService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_inventoryservice_inventoryservice",
+      "label": "InventoryService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/InventoryService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_userservice_userservice",
+      "label": "UserService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/UserService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_alertservice_alertservice",
+      "label": "AlertService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/AlertService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_overheadservice_overheadservice",
+      "label": "OverheadService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/OverheadService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_currencyservice_currencyservice",
+      "label": "CurrencyService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/CurrencyService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_materialcategorydao_materialcategorydao",
+      "label": "MaterialCategoryDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/MaterialCategoryDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_bomitemdao_bomitemdao",
+      "label": "BomItemDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/BomItemDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_materialdao_materialdao",
+      "label": "MaterialDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/MaterialDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "util_dbutil_dbutil",
+      "label": "DBUtil",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/util/DBUtil.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_productionbatch_productionbatch",
+      "label": "ProductionBatch",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/ProductionBatch.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_user_user",
+      "label": "User",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/User.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_bomitem_bomitem",
+      "label": "BomItem",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/BomItem.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_material_material",
+      "label": "Material",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/Material.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_overheadconfig_overheadconfig",
+      "label": "OverheadConfig",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/OverheadConfig.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_product_product",
+      "label": "Product",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/Product.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dto_unitcostbreakdown_unitcostbreakdown",
+      "label": "UnitCostBreakdown",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dto/UnitCostBreakdown.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_alertdao_alertdao",
+      "label": "AlertDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/AlertDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_batchitemdao_batchitemdao",
+      "label": "BatchItemDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/BatchItemDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_currencyratedao_currencyratedao",
+      "label": "CurrencyRateDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/CurrencyRateDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_inventorylogdao_inventorylogdao",
+      "label": "InventoryLogDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/InventoryLogDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_overheadconfigdao_overheadconfigdao",
+      "label": "OverheadConfigDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/OverheadConfigDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_productdao_productdao",
+      "label": "ProductDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/ProductDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_productionbatchdao_productionbatchdao",
+      "label": "ProductionBatchDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/ProductionBatchDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dao_userdao_userdao",
+      "label": "UserDao",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dao/UserDao.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dto_batchcontext_batchcontext",
+      "label": "BatchContext",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dto/BatchContext.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dto_costline_costline",
+      "label": "CostLine",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/dto/CostLine.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_alert_alert",
+      "label": "Alert",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/Alert.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_batchitem_batchitem",
+      "label": "BatchItem",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/BatchItem.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_currencyrate_currencyrate",
+      "label": "CurrencyRate",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/CurrencyRate.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_inventorylog_inventorylog",
+      "label": "InventoryLog",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/InventoryLog.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "entity_materialcategory_materialcategory",
+      "label": "MaterialCategory",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/entity/MaterialCategory.java",
+      "source_location": "3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exception_serviceexception_serviceexception",
+      "label": "ServiceException",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/exception/ServiceException.java",
+      "source_location": "3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "exception_validationexception_validationexception",
+      "label": "ValidationException",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/exception/ValidationException.java",
+      "source_location": "3",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filter_characterencodingfilter_characterencodingfilter",
+      "label": "CharacterEncodingFilter",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/filter/CharacterEncodingFilter.java",
+      "source_location": "9",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filter_localefilter_localefilter",
+      "label": "LocaleFilter",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/filter/LocaleFilter.java",
+      "source_location": "16",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filter_loginfilter_loginfilter",
+      "label": "LoginFilter",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/filter/LoginFilter.java",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "filter_rolefilter_rolefilter",
+      "label": "RoleFilter",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/filter/RoleFilter.java",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "command_stockmovementcommand_stockmovementcommand",
+      "label": "StockMovementCommand",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/command/StockMovementCommand.java",
+      "source_location": "6",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "command_adjustmentcommand_adjustmentcommand",
+      "label": "AdjustmentCommand",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/command/AdjustmentCommand.java",
+      "source_location": "10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "command_initialstockcommand_initialstockcommand",
+      "label": "InitialStockCommand",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/command/InitialStockCommand.java",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "command_purchasecommand_purchasecommand",
+      "label": "PurchaseCommand",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/command/PurchaseCommand.java",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "command_wastecommand_wastecommand",
+      "label": "WasteCommand",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/command/WasteCommand.java",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decorator_abstractcostdecorator_abstractcostdecorator",
+      "label": "AbstractCostDecorator",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/AbstractCostDecorator.java",
+      "source_location": "8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decorator_directmaterialscost_directmaterialscost",
+      "label": "DirectMaterialsCost",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/DirectMaterialsCost.java",
+      "source_location": "11",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decorator_unitcostcalculation_unitcostcalculation",
+      "label": "UnitCostCalculation",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/AbstractCostDecorator.java",
+      "source_location": "8",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decorator_directothercostdecorator_directothercostdecorator",
+      "label": "DirectOtherCostDecorator",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/DirectOtherCostDecorator.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decorator_percentageoverheaddecorator_percentageoverheaddecorator",
+      "label": "PercentageOverheadDecorator",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/PercentageOverheadDecorator.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decorator_unitcostfinalizer_unitcostfinalizer",
+      "label": "UnitCostFinalizer",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/UnitCostFinalizer.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_currencystrategyfactory_currencystrategyfactory",
+      "label": "CurrencyStrategyFactory",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/factory/CurrencyStrategyFactory.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "label": "OverheadStrategyFactory",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/factory/OverheadStrategyFactory.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "observer_materialpricesubject_materialpricesubject",
+      "label": "MaterialPriceSubject",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/observer/MaterialPriceSubject.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "observer_priceobserver_priceobserver",
+      "label": "PriceObserver",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/observer/PriceObserver.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "observer_productcostobserver_productcostobserver",
+      "label": "ProductCostObserver",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/observer/ProductCostObserver.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_currencyformatstrategy_currencyformatstrategy",
+      "label": "CurrencyFormatStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/CurrencyFormatStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "label": "OverheadAllocationStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/OverheadAllocationStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_chineseyuanstrategy_chineseyuanstrategy",
+      "label": "ChineseYuanStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/ChineseYuanStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_eurostrategy_eurostrategy",
+      "label": "EuroStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/EuroStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_indonesianrupiahstrategy_indonesianrupiahstrategy",
+      "label": "IndonesianRupiahStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/IndonesianRupiahStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_usdollarstrategy_usdollarstrategy",
+      "label": "USDollarStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/USDollarStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_dailyallocatedstrategy_dailyallocatedstrategy",
+      "label": "DailyAllocatedStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/DailyAllocatedStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_perbatchfixedstrategy_perbatchfixedstrategy",
+      "label": "PerBatchFixedStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/PerBatchFixedStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_perunitfixedstrategy_perunitfixedstrategy",
+      "label": "PerUnitFixedStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/PerUnitFixedStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_percentageofdirectstrategy_percentageofdirectstrategy",
+      "label": "PercentageOfDirectStrategy",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/PercentageOfDirectStrategy.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "service_unitcostservice_unitcostservice",
+      "label": "UnitCostService",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/service/UnitCostService.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "util_appcontextlistener_appcontextlistener",
+      "label": "AppContextListener",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/util/AppContextListener.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "util_moneyformatter_moneyformatter",
+      "label": "MoneyFormatter",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/util/MoneyFormatter.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "util_passwordhasher_passwordhasher",
+      "label": "PasswordHasher",
+      "file_type": "code",
+      "source_file": "src/main/java/com/costcraft/util/PasswordHasher.java",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_user",
+      "label": "user",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_currency_rate",
+      "label": "currency_rate",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_material_category",
+      "label": "material_category",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_material",
+      "label": "material",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_product",
+      "label": "product",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_bom_item",
+      "label": "bom_item",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_overhead_config",
+      "label": "overhead_config",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_production_batch",
+      "label": "production_batch",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_batch_item",
+      "label": "batch_item",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_inventory_log",
+      "label": "inventory_log",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "schema_table_alert",
+      "label": "alert",
+      "file_type": "document",
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "doc_claude_costcraft",
+      "label": "CostCraft Project Spec",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "doc_claude_costcraft_four_stage_cost",
+      "label": "Four-Stage Cost Methodology",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "doc_claude_costcraft_design_patterns",
+      "label": "Design Patterns (8 required)",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "controller_batchservlet_batchservlet",
+      "target": "service_batchservice_batchservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/BatchServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_batchservlet_batchservlet",
+      "target": "service_productservice_productservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/BatchServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_bomservlet_bomservlet",
+      "target": "service_productservice_productservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/BomServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_bomservlet_bomservlet",
+      "target": "service_materialservice_materialservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/BomServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_dashboardservlet_dashboardservlet",
+      "target": "service_productservice_productservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/DashboardServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_dashboardservlet_dashboardservlet",
+      "target": "service_materialservice_materialservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/DashboardServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_dashboardservlet_dashboardservlet",
+      "target": "service_alertservice_alertservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/DashboardServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_dashboardservlet_dashboardservlet",
+      "target": "service_batchservice_batchservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/DashboardServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_inventoryhistoryservlet_inventoryhistoryservlet",
+      "target": "service_inventoryservice_inventoryservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/InventoryHistoryServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_inventoryhistoryservlet_inventoryhistoryservlet",
+      "target": "service_materialservice_materialservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/InventoryHistoryServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_inventoryservlet_inventoryservlet",
+      "target": "service_inventoryservice_inventoryservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/InventoryServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_inventoryservlet_inventoryservlet",
+      "target": "service_materialservice_materialservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/InventoryServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_loginservlet_loginservlet",
+      "target": "service_userservice_userservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/LoginServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_loginservlet_loginservlet",
+      "target": "entity_user_user",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/LoginServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_lowstockservlet_lowstockservlet",
+      "target": "service_materialservice_materialservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/LowStockServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_lowstockservlet_lowstockservlet",
+      "target": "service_alertservice_alertservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/LowStockServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_materialservlet_materialservlet",
+      "target": "service_materialservice_materialservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/MaterialServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_materialservlet_materialservlet",
+      "target": "dao_materialcategorydao_materialcategorydao",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/MaterialServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_materialservlet_materialservlet",
+      "target": "util_dbutil_dbutil",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/MaterialServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_overheadservlet_overheadservlet",
+      "target": "service_overheadservice_overheadservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/OverheadServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_preferencesservlet_preferencesservlet",
+      "target": "service_userservice_userservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/PreferencesServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_preferencesservlet_preferencesservlet",
+      "target": "service_currencyservice_currencyservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/PreferencesServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_pricesensitivityservlet_pricesensitivityservlet",
+      "target": "service_productservice_productservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/PriceSensitivityServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_productservlet_productservlet",
+      "target": "service_productservice_productservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/ProductServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_replenishservlet_replenishservlet",
+      "target": "service_productservice_productservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_replenishservlet_replenishservlet",
+      "target": "dao_bomitemdao_bomitemdao",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_replenishservlet_replenishservlet",
+      "target": "dao_materialdao_materialdao",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_replenishservlet_replenishservlet",
+      "target": "util_dbutil_dbutil",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_replenishservlet_replenishline",
+      "target": "controller_replenishservlet_replenishservlet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_unitcostdetailservlet_unitcostdetailservlet",
+      "target": "service_productservice_productservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/UnitCostDetailServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_unitcostdetailservlet_unitcostdetailservlet",
+      "target": "service_batchservice_batchservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/UnitCostDetailServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_usermanageservlet_usermanageservlet",
+      "target": "service_userservice_userservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/UserManageServlet.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "scripts_recordtooluse_ps1",
+      "target": "scripts_recordtooluse_sh",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": ".github/modernize/java-upgrade/hooks/scripts/recordToolUse.ps1",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "service_productservice_productservice",
+      "target": "dto_unitcostbreakdown_unitcostbreakdown",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/ProductService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "controller_materialservlet_materialservlet",
+      "target": "controller_replenishservlet_replenishservlet",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/controller/MaterialServlet.java",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dao_alertdao_alertdao",
+      "target": "entity_alert_alert",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/dao/AlertDao.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dao_batchitemdao_batchitemdao",
+      "target": "entity_batchitem_batchitem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/dao/BatchItemDao.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dao_bomitemdao_bomitemdao",
+      "target": "entity_bomitem_bomitem",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/dao/BomItemDao.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dao_currencyratedao_currencyratedao",
+      "target": "entity_currencyrate_currencyrate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/dao/CurrencyRateDao.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dao_inventorylogdao_inventorylogdao",
+      "target": "entity_inventorylog_inventorylog",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/dao/InventoryLogDao.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dao_materialdao_materialdao",
+      "target": "dao_alertdao_alertdao",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/dao/MaterialDao.java",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dao_materialdao_materialdao",
+      "target": "dao_inventorylogdao_inventorylogdao",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/dao/MaterialDao.java",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dao_overheadconfigdao_overheadconfigdao",
+      "target": "dto_costline_costline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/dao/OverheadConfigDao.java",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dao_productdao_productdao",
+      "target": "dto_unitcostbreakdown_unitcostbreakdown",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/dao/ProductDao.java",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "dto_unitcostbreakdown_unitcostbreakdown",
+      "target": "dto_costline_costline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/dto/UnitCostBreakdown.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "entity_bomitem_bomitem",
+      "target": "entity_batchitem_batchitem",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/entity/BomItem.java",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "entity_alert_alert",
+      "target": "entity_inventorylog_inventorylog",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "src/main/java/com/costcraft/entity/Alert.java",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "dao_bomitemdao_bomitemdao",
+      "target": "dao_productionbatchdao_productionbatchdao",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/dao/BomItemDao.java",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "command_adjustmentcommand_adjustmentcommand",
+      "target": "command_stockmovementcommand_stockmovementcommand",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/command/AdjustmentCommand.java",
+      "source_location": "10",
+      "weight": 1.0
+    },
+    {
+      "source": "command_initialstockcommand_initialstockcommand",
+      "target": "command_stockmovementcommand_stockmovementcommand",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/command/InitialStockCommand.java",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "command_purchasecommand_purchasecommand",
+      "target": "command_stockmovementcommand_stockmovementcommand",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/command/PurchaseCommand.java",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "command_wastecommand_wastecommand",
+      "target": "command_stockmovementcommand_stockmovementcommand",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/command/WasteCommand.java",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "decorator_abstractcostdecorator_abstractcostdecorator",
+      "target": "decorator_unitcostcalculation_unitcostcalculation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/AbstractCostDecorator.java",
+      "source_location": "8",
+      "weight": 1.0
+    },
+    {
+      "source": "decorator_directmaterialscost_directmaterialscost",
+      "target": "decorator_unitcostcalculation_unitcostcalculation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/DirectMaterialsCost.java",
+      "source_location": "11",
+      "weight": 1.0
+    },
+    {
+      "source": "decorator_abstractcostdecorator_abstractcostdecorator",
+      "target": "decorator_unitcostcalculation_unitcostcalculation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/AbstractCostDecorator.java",
+      "source_location": "10",
+      "weight": 1.0
+    },
+    {
+      "source": "filter_localefilter_localefilter",
+      "target": "entity_user_user",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/filter/LocaleFilter.java",
+      "source_location": "22",
+      "weight": 1.0
+    },
+    {
+      "source": "filter_rolefilter_rolefilter",
+      "target": "entity_user_user",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/filter/RoleFilter.java",
+      "source_location": "19",
+      "weight": 1.0
+    },
+    {
+      "source": "filter_localefilter_localefilter",
+      "target": "entity_user_user",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/filter/LocaleFilter.java",
+      "source_location": "23",
+      "weight": 1.0
+    },
+    {
+      "source": "filter_rolefilter_rolefilter",
+      "target": "entity_user_user",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/filter/RoleFilter.java",
+      "source_location": "20",
+      "weight": 1.0
+    },
+    {
+      "source": "entity_material_material",
+      "target": "entity_materialcategory_materialcategory",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/entity/Material.java",
+      "source_location": "8",
+      "weight": 0.85
+    },
+    {
+      "source": "entity_productionbatch_productionbatch",
+      "target": "entity_product_product",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/entity/ProductionBatch.java",
+      "source_location": "8",
+      "weight": 0.95
+    },
+    {
+      "source": "entity_productionbatch_productionbatch",
+      "target": "entity_user_user",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/entity/ProductionBatch.java",
+      "source_location": "14",
+      "weight": 0.85
+    },
+    {
+      "source": "exception_serviceexception_serviceexception",
+      "target": "exception_validationexception_validationexception",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "src/main/java/com/costcraft/exception/ServiceException.java",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "command_adjustmentcommand_adjustmentcommand",
+      "target": "entity_material_material",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/pattern/command/AdjustmentCommand.java",
+      "source_location": "14",
+      "weight": 0.85
+    },
+    {
+      "source": "command_purchasecommand_purchasecommand",
+      "target": "entity_material_material",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/pattern/command/PurchaseCommand.java",
+      "source_location": "14",
+      "weight": 0.85
+    },
+    {
+      "source": "command_wastecommand_wastecommand",
+      "target": "entity_material_material",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/pattern/command/WasteCommand.java",
+      "source_location": "14",
+      "weight": 0.85
+    },
+    {
+      "source": "command_initialstockcommand_initialstockcommand",
+      "target": "entity_material_material",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/pattern/command/InitialStockCommand.java",
+      "source_location": "14",
+      "weight": 0.85
+    },
+    {
+      "source": "decorator_directmaterialscost_directmaterialscost",
+      "target": "entity_material_material",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/DirectMaterialsCost.java",
+      "source_location": "16",
+      "weight": 0.75
+    },
+    {
+      "source": "entity_product_product",
+      "target": "entity_overheadconfig_overheadconfig",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "src/main/java/com/costcraft/entity/Product.java",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "filter_loginfilter_loginfilter",
+      "target": "filter_rolefilter_rolefilter",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "src/main/java/com/costcraft/filter/LoginFilter.java",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "decorator_abstractcostdecorator_abstractcostdecorator",
+      "target": "decorator_directmaterialscost_directmaterialscost",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/AbstractCostDecorator.java",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "decorator_directothercostdecorator_directothercostdecorator",
+      "target": "decorator_unitcostcalculation_unitcostcalculation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/DirectOtherCostDecorator.java",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "decorator_percentageoverheaddecorator_percentageoverheaddecorator",
+      "target": "decorator_unitcostcalculation_unitcostcalculation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/PercentageOverheadDecorator.java",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "decorator_unitcostfinalizer_unitcostfinalizer",
+      "target": "decorator_unitcostcalculation_unitcostcalculation",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/UnitCostFinalizer.java",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "decorator_directothercostdecorator_directothercostdecorator",
+      "target": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/DirectOtherCostDecorator.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "decorator_percentageoverheaddecorator_percentageoverheaddecorator",
+      "target": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/PercentageOverheadDecorator.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "decorator_directothercostdecorator_directothercostdecorator",
+      "target": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/DirectOtherCostDecorator.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "decorator_percentageoverheaddecorator_percentageoverheaddecorator",
+      "target": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/PercentageOverheadDecorator.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "target": "strategy_perbatchfixedstrategy_perbatchfixedstrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/OverheadStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "target": "strategy_perunitfixedstrategy_perunitfixedstrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/OverheadStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "target": "strategy_dailyallocatedstrategy_dailyallocatedstrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/OverheadStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "target": "strategy_percentageofdirectstrategy_percentageofdirectstrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/OverheadStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_currencystrategyfactory_currencystrategyfactory",
+      "target": "strategy_usdollarstrategy_usdollarstrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/CurrencyStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_currencystrategyfactory_currencystrategyfactory",
+      "target": "strategy_chineseyuanstrategy_chineseyuanstrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/CurrencyStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_currencystrategyfactory_currencystrategyfactory",
+      "target": "strategy_eurostrategy_eurostrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/CurrencyStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_currencystrategyfactory_currencystrategyfactory",
+      "target": "strategy_indonesianrupiahstrategy_indonesianrupiahstrategy",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/CurrencyStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_currencystrategyfactory_currencystrategyfactory",
+      "target": "strategy_currencyformatstrategy_currencyformatstrategy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/CurrencyStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "factory_overheadstrategyfactory_overheadstrategyfactory",
+      "target": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/OverheadStrategyFactory.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_chineseyuanstrategy_chineseyuanstrategy",
+      "target": "strategy_currencyformatstrategy_currencyformatstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/ChineseYuanStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_eurostrategy_eurostrategy",
+      "target": "strategy_currencyformatstrategy_currencyformatstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/EuroStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_indonesianrupiahstrategy_indonesianrupiahstrategy",
+      "target": "strategy_currencyformatstrategy_currencyformatstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/IndonesianRupiahStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_usdollarstrategy_usdollarstrategy",
+      "target": "strategy_currencyformatstrategy_currencyformatstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/USDollarStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_dailyallocatedstrategy_dailyallocatedstrategy",
+      "target": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/DailyAllocatedStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_perbatchfixedstrategy_perbatchfixedstrategy",
+      "target": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/PerBatchFixedStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_perunitfixedstrategy_perunitfixedstrategy",
+      "target": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/PerUnitFixedStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_percentageofdirectstrategy_percentageofdirectstrategy",
+      "target": "strategy_overheadallocationstrategy_overheadallocationstrategy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/strategy/PercentageOfDirectStrategy.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "observer_productcostobserver_productcostobserver",
+      "target": "observer_priceobserver_priceobserver",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/observer/ProductCostObserver.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "observer_materialpricesubject_materialpricesubject",
+      "target": "observer_priceobserver_priceobserver",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/observer/MaterialPriceSubject.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "observer_materialpricesubject_materialpricesubject",
+      "target": "observer_productcostobserver_productcostobserver",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/pattern/observer/MaterialPriceSubject.java",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "observer_productcostobserver_productcostobserver",
+      "target": "decorator_unitcostcalculation_unitcostcalculation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/pattern/observer/ProductCostObserver.java",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "service_alertservice_alertservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/AlertService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "service_unitcostservice_unitcostservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "schema_table_production_batch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "schema_table_batch_item",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "schema_table_inventory_log",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "schema_table_alert",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_currencyservice_currencyservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/CurrencyService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_currencyservice_currencyservice",
+      "target": "schema_table_currency_rate",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/CurrencyService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_inventoryservice_inventoryservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/InventoryService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_inventoryservice_inventoryservice",
+      "target": "schema_table_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/InventoryService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_inventoryservice_inventoryservice",
+      "target": "schema_table_inventory_log",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/InventoryService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_inventoryservice_inventoryservice",
+      "target": "schema_table_alert",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/InventoryService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_materialservice_materialservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/MaterialService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_materialservice_materialservice",
+      "target": "service_unitcostservice_unitcostservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/MaterialService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_materialservice_materialservice",
+      "target": "schema_table_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/MaterialService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_materialservice_materialservice",
+      "target": "schema_table_product",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/MaterialService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_overheadservice_overheadservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/OverheadService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_overheadservice_overheadservice",
+      "target": "schema_table_overhead_config",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/OverheadService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_productservice_productservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/ProductService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_productservice_productservice",
+      "target": "service_unitcostservice_unitcostservice",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/ProductService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_productservice_productservice",
+      "target": "schema_table_product",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/ProductService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_productservice_productservice",
+      "target": "schema_table_bom_item",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/ProductService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_unitcostservice_unitcostservice",
+      "target": "schema_table_product",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/UnitCostService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_unitcostservice_unitcostservice",
+      "target": "schema_table_bom_item",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/UnitCostService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_unitcostservice_unitcostservice",
+      "target": "schema_table_overhead_config",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/UnitCostService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_userservice_userservice",
+      "target": "util_dbutil_dbutil",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/UserService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_userservice_userservice",
+      "target": "util_passwordhasher_passwordhasher",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/UserService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_userservice_userservice",
+      "target": "schema_table_user",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/UserService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "util_appcontextlistener_appcontextlistener",
+      "target": "util_dbutil_dbutil",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/util/AppContextListener.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "util_appcontextlistener_appcontextlistener",
+      "target": "util_passwordhasher_passwordhasher",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/util/AppContextListener.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "util_appcontextlistener_appcontextlistener",
+      "target": "schema_table_user",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/util/AppContextListener.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "util_moneyformatter_moneyformatter",
+      "target": "schema_table_currency_rate",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/util/MoneyFormatter.java",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "schema_table_material",
+      "target": "schema_table_material_category",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_bom_item",
+      "target": "schema_table_product",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_bom_item",
+      "target": "schema_table_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_production_batch",
+      "target": "schema_table_product",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_production_batch",
+      "target": "schema_table_user",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_batch_item",
+      "target": "schema_table_production_batch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_batch_item",
+      "target": "schema_table_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_inventory_log",
+      "target": "schema_table_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_inventory_log",
+      "target": "schema_table_user",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "schema_table_alert",
+      "target": "schema_table_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/resources/db/schema.sql",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "schema_table_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_materialservice_materialservice",
+      "target": "doc_claude_costcraft_design_patterns",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/MaterialService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_unitcostservice_unitcostservice",
+      "target": "doc_claude_costcraft_design_patterns",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/UnitCostService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_inventoryservice_inventoryservice",
+      "target": "doc_claude_costcraft_design_patterns",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/InventoryService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "util_dbutil_dbutil",
+      "target": "doc_claude_costcraft_design_patterns",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/util/DBUtil.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "service_batchservice_batchservice",
+      "target": "doc_claude_costcraft_design_patterns",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "util_moneyformatter_moneyformatter",
+      "target": "doc_claude_costcraft_design_patterns",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/util/MoneyFormatter.java",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_claude_costcraft_four_stage_cost",
+      "target": "service_unitcostservice_unitcostservice",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_claude_costcraft",
+      "target": "doc_claude_costcraft_four_stage_cost",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_claude_costcraft",
+      "target": "doc_claude_costcraft_design_patterns",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "CLAUDE.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_dashboard_aggregation",
+      "label": "Dashboard Aggregation from Four Services",
+      "nodes": [
+        "controller_dashboardservlet_dashboardservlet",
+        "service_productservice_productservice",
+        "service_materialservice_materialservice",
+        "service_alertservice_alertservice",
+        "service_batchservice_batchservice"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/controller/DashboardServlet.java"
+    },
+    {
+      "id": "he_unit_cost_consumers",
+      "label": "UnitCostBreakdown DTO Shared Across Controllers",
+      "nodes": [
+        "service_productservice_productservice",
+        "dto_unitcostbreakdown_unitcostbreakdown",
+        "controller_batchservlet_batchservlet",
+        "controller_pricesensitivityservlet_pricesensitivityservlet",
+        "controller_unitcostdetailservlet_unitcostdetailservlet"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/ProductService.java"
+    },
+    {
+      "id": "he_direct_dao_bypass",
+      "label": "Direct DAO Bypass Pattern",
+      "nodes": [
+        "controller_materialservlet_materialservlet",
+        "controller_replenishservlet_replenishservlet",
+        "dao_materialcategorydao_materialcategorydao",
+        "dao_bomitemdao_bomitemdao",
+        "dao_materialdao_materialdao",
+        "util_dbutil_dbutil"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/controller/ReplenishServlet.java"
+    },
+    {
+      "id": "he_cost_calculation_pipeline",
+      "label": "Unit Cost Calculation Pipeline",
+      "nodes": [
+        "dao_bomitemdao_bomitemdao",
+        "dao_overheadconfigdao_overheadconfigdao",
+        "dto_batchcontext_batchcontext",
+        "dto_costline_costline",
+        "dto_unitcostbreakdown_unitcostbreakdown",
+        "dao_productdao_productdao"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "src/main/java/com/costcraft/dao/BomItemDao.java"
+    },
+    {
+      "id": "he_stock_alert_lifecycle",
+      "label": "Inventory Stock Alert Lifecycle",
+      "nodes": [
+        "dao_materialdao_materialdao",
+        "dao_inventorylogdao_inventorylogdao",
+        "dao_alertdao_alertdao",
+        "entity_inventorylog_inventorylog",
+        "entity_alert_alert"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/dao/MaterialDao.java"
+    },
+    {
+      "id": "he_production_batch_recording",
+      "label": "Production Batch Recording Flow",
+      "nodes": [
+        "dao_productionbatchdao_productionbatchdao",
+        "dao_batchitemdao_batchitemdao",
+        "dao_inventorylogdao_inventorylogdao",
+        "dao_materialdao_materialdao",
+        "dto_batchcontext_batchcontext"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/dao/ProductionBatchDao.java"
+    },
+    {
+      "id": "stock_movement_command_implementations",
+      "label": "Stock Movement Command Pattern Implementations",
+      "nodes": [
+        "command_adjustmentcommand_adjustmentcommand",
+        "command_initialstockcommand_initialstockcommand",
+        "command_purchasecommand_purchasecommand",
+        "command_wastecommand_wastecommand",
+        "command_stockmovementcommand_stockmovementcommand"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/command/StockMovementCommand.java"
+    },
+    {
+      "id": "servlet_filter_chain",
+      "label": "Servlet Filter Chain for Request Processing",
+      "nodes": [
+        "filter_characterencodingfilter_characterencodingfilter",
+        "filter_localefilter_localefilter",
+        "filter_loginfilter_loginfilter",
+        "filter_rolefilter_rolefilter"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "src/main/java/com/costcraft/filter/LoginFilter.java"
+    },
+    {
+      "id": "cost_calculation_decorator_chain",
+      "label": "Cost Calculation Decorator Chain",
+      "nodes": [
+        "decorator_unitcostcalculation_unitcostcalculation",
+        "decorator_abstractcostdecorator_abstractcostdecorator",
+        "decorator_directmaterialscost_directmaterialscost"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/decorator/AbstractCostDecorator.java"
+    },
+    {
+      "id": "he_overhead_decorator_factory_strategy",
+      "label": "Overhead Cost Decoration Flow",
+      "nodes": [
+        "decorator_directothercostdecorator_directothercostdecorator",
+        "decorator_percentageoverheaddecorator_percentageoverheaddecorator",
+        "factory_overheadstrategyfactory_overheadstrategyfactory",
+        "strategy_perbatchfixedstrategy_perbatchfixedstrategy",
+        "strategy_perunitfixedstrategy_perunitfixedstrategy",
+        "strategy_dailyallocatedstrategy_dailyallocatedstrategy",
+        "strategy_percentageofdirectstrategy_percentageofdirectstrategy",
+        "strategy_overheadallocationstrategy_overheadallocationstrategy"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/OverheadStrategyFactory.java"
+    },
+    {
+      "id": "he_currency_factory_strategy",
+      "label": "Currency Format Strategy Selection",
+      "nodes": [
+        "factory_currencystrategyfactory_currencystrategyfactory",
+        "strategy_currencyformatstrategy_currencyformatstrategy",
+        "strategy_chineseyuanstrategy_chineseyuanstrategy",
+        "strategy_eurostrategy_eurostrategy",
+        "strategy_usdollarstrategy_usdollarstrategy",
+        "strategy_indonesianrupiahstrategy_indonesianrupiahstrategy"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/factory/CurrencyStrategyFactory.java"
+    },
+    {
+      "id": "he_observer_cost_update",
+      "label": "Material Price Change Observer Chain",
+      "nodes": [
+        "observer_materialpricesubject_materialpricesubject",
+        "observer_priceobserver_priceobserver",
+        "observer_productcostobserver_productcostobserver"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/pattern/observer/MaterialPriceSubject.java"
+    },
+    {
+      "id": "he_batch_transaction",
+      "label": "BatchService recordBatch transaction boundary",
+      "nodes": [
+        "service_batchservice_batchservice",
+        "schema_table_production_batch",
+        "schema_table_batch_item",
+        "schema_table_material",
+        "schema_table_inventory_log",
+        "schema_table_alert"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/BatchService.java"
+    },
+    {
+      "id": "he_observer_price_cascade",
+      "label": "Material price update Observer cascade",
+      "nodes": [
+        "service_materialservice_materialservice",
+        "schema_table_material",
+        "schema_table_product",
+        "service_unitcostservice_unitcostservice"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/MaterialService.java"
+    },
+    {
+      "id": "he_stock_alert_invariant",
+      "label": "Stock movement audit and alert invariant",
+      "nodes": [
+        "service_inventoryservice_inventoryservice",
+        "schema_table_material",
+        "schema_table_inventory_log",
+        "schema_table_alert"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/main/java/com/costcraft/service/InventoryService.java"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
